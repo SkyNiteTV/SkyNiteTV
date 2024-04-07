@@ -1,9 +1,19 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+<h1 align="center">Hey there 👋</h1>
+
+<div align="center">
+<img     
+src="https://imgs.search.brave.com/R_bDGypSMqacDwsKA_kTnzKJUcy5YdMIdIrs51LO5A0/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/ZnJlZS1waG90by9y/ZWFyLXZpZXcteW91/bmctbGF0aW4tc29m/dHdhcmUtZGV2ZWxv/cGVyLXByb2dyYW1t/aW5nLXdoaWxlLXdv/cmtpbmctZnJvbS1o/b21lXzY2MjI1MS0x/MDA0LmpwZz9zaXpl/PTYyNiZleHQ9anBn" width="500">
+</img>
+</div>
 
 # 💫 About Me:
-I'm currently Working on different Projects<br>I'm learning C#<br>
+I am a UI Developer from Germany.
+<li>🪴I'm currently learning C#</li>
+<li>📫How to reach me nassim.lahoudi@hotmail.com</li>
+<li>⚡Fun Fact Soccer & Code</li>
 
 
 ## 🌐 Socials:
