@@ -10,7 +10,7 @@ src="https://imgs.search.brave.com/R_bDGypSMqacDwsKA_kTnzKJUcy5YdMIdIrs51LO5A0/r
 </div>
 
 # 💫 About Me:
-I am a UI Developer from Germany.
+I am learning Coding from Germany.
 <li>🪴I'm currently learning C#</li>
 <li>📫How to reach me nassim.lahoudi@hotmail.com</li>
 <li>⚡Fun Fact Soccer & Code</li>
