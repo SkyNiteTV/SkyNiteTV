@@ -10,7 +10,7 @@ src="https://imgs.search.brave.com/R_bDGypSMqacDwsKA_kTnzKJUcy5YdMIdIrs51LO5A0/r
 </div>
 
 # 💫 About Me:
-I am learning Coding from Germany.
+I code from Germany.
 <li>Currently, I'm furthering my education in the field of software development.</li>
 <li>📫How to reach me nassim.lahoudi@hotmail.com</li>
 <li>⚡Fun Fact Soccer & Code</li>
