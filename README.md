@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.istockphoto.com/id/1356364287/de/foto/nahaufnahme-konzentrieren-sie-sich-auf-die-h%C3%A4nde-der-person-die-auf-der-tastatur-mit.jpg?s=612x612&w=0&k=20&c=fiNmaO_jp5xtjMp1ISuNtNIjqWxUykLy3a6E3v_-ZIo=" width="100"/>
 </div>
 <h1 align="center">Hey there 👋</h1>
 
