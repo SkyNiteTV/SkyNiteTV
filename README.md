@@ -1,11 +1,13 @@
 <div id="header" align="center">
-  <img src="[https://media.istockphoto.com/id/1356364287/de/foto/nahaufnahme-konzentrieren-sie-sich-auf-die-h%C3%A4nde-der-person-die-auf-der-tastatur-mit.jpg?s=612x612&w=0&k=20&c=fiNmaO_jp5xtjMp1ISuNtNIjqWxUykLy3a6E3v_-ZIo=](https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif)" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <h1 align="center">Hey there 👋</h1>
 
 <div align="center">
 <img     
-src="https://imgs.search.brave.com/R_bDGypSMqacDwsKA_kTnzKJUcy5YdMIdIrs51LO5A0/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/ZnJlZS1waG90by9y/ZWFyLXZpZXcteW91/bmctbGF0aW4tc29m/dHdhcmUtZGV2ZWxv/cGVyLXByb2dyYW1t/aW5nLXdoaWxlLXdv/cmtpbmctZnJvbS1o/b21lXzY2MjI1MS0x/MDA0LmpwZz9zaXpl/PTYyNiZleHQ9anBn" width="500">
+src="https://media.istockphoto.com/id/1356364287/de/foto/nahaufnahme-konzentrieren-sie-sich-auf-die-h%C3%A4nde-der-person-die-auf-der-tastatur-mit.jpg?s=612x612&w=0&k=20&c=fiNmaO_jp5xtjMp1ISuNtNIjqWxUykLy3a6E3v_-ZIo=" width="500">
+
+  https://media.istockphoto.com/id/1356364287/de/foto/nahaufnahme-konzentrieren-sie-sich-auf-die-h%C3%A4nde-der-person-die-auf-der-tastatur-mit.jpg?s=612x612&w=0&k=20&c=fiNmaO_jp5xtjMp1ISuNtNIjqWxUykLy3a6E3v_-ZIo=
 </img>
 </div>
 
